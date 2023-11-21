@@ -1,0 +1,141 @@
+.header {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    width: 1110px;
+    padding-left: 16px;padding-right: 16px;
+
+    tr {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+    }
+
+    th {
+        padding-top: 16px;
+        padding-bottom: 16px;
+    }
+
+    .id {
+        color: #FFF;
+        text-align: center;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        padding-left: 18.39px;
+        padding-right: 18.40px;
+        cursor: pointer;
+    }
+
+    .th2 {
+        display: flex;
+        align-items: center;
+        gap: 4px;
+
+        .Product {
+            color: #FFF;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            margin-right: 41px;
+            cursor: pointer;
+        }
+    }
+
+    .th3 {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+
+        .Customer {
+            color: #FFF;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            margin-right: 24px;
+            cursor: pointer;
+        }
+    }
+
+    .th4 {
+        display: flex;
+        align-items: center;
+        gap: 7px;
+
+        .Date {
+            color: #FFF;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            margin-right: 61.50px;
+            cursor: pointer;
+        }
+    }
+
+    .th5 {
+        display: flex;
+        align-items: center;
+        gap: 7px;
+
+        .Amount {
+            color: #FFF;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            margin-right: 60px;
+            cursor: pointer;
+        }
+    }
+
+    .th6 {
+        display: flex;
+        align-items: center;
+
+        .Payment {
+            color: #FFF;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            margin-right: 9px;
+            cursor: pointer;
+        }
+    }
+
+    .th7 {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+
+        .Status {
+            color: #FFF;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            margin-right: 49.10px;
+            cursor: pointer;
+        }
+    }
+
+    .Action {
+        color: #FFF;
+        text-align: center;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        margin-left: 25.50px;
+        margin-right: 25.50px;
+        cursor: pointer;
+    }
+
+    .header_img {
+        cursor: pointer;
+    }
+}

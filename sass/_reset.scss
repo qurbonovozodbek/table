@@ -1,0 +1,22 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: bisque;
+    
+}
+.container {
+    width: 1110px;
+    margin: 0 auto;
+    background-color: #1D1E42;
+    // padding-left: 16px;
+    // padding-right: 16px;
+}
+table {
+    border-collapse: collapse;
+}
+
+table tr:nth-child(even) {
+    background-color: #26264F;
+}
